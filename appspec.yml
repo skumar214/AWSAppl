@@ -2,4 +2,4 @@ version: 0.0
 os: linux
 files:
   - source: aws-1.0.0-BUILD-SNAPSHOT.war
-    destination: /var/lib/tomcat7/webapps
+    destination: /opt/bitnami/apache-tomcat/webapps
